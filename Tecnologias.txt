@@ -1,0 +1,16 @@
+Competências : 
+ 
+- JavaScript;
+- Node.JS;
+- Programação assíncrona ; 
+- Interação com REST API;
+      * Rotas 
+      * Intermediários
+      * Controladores
+- Leitura e escrita em arquivos;
+- Lógica de programação; 
+    * Arrays e Loops;
+    * Métodos de Array;
+    * Métodos de strings 
+    
+
